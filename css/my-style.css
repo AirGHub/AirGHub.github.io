@@ -1,0 +1,11 @@
+/* 调整导航栏标题位置 */
+.brand-logo {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+/* 确保标题不会被其他元素覆盖 */
+.navbar-brand {
+    position: relative;
+    z-index: 2;
+} 
