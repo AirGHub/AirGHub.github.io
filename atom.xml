@@ -3,11 +3,11 @@
   <title>一条帅虫</title>
   
   <subtitle>技术博客</subtitle>
-  <link href="https://airghub.github.io/wsl/atom.xml" rel="self"/>
+  <link href="https://airghub.github.io/atom.xml" rel="self"/>
   
-  <link href="https://airghub.github.io/wsl/"/>
+  <link href="https://airghub.github.io/"/>
   <updated>2025-03-04T14:20:43.284Z</updated>
-  <id>https://airghub.github.io/wsl/</id>
+  <id>https://airghub.github.io/</id>
   
   <author>
     <name>王帅龙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://airghub.github.io/wsl/2025/03/04/hello-world/"/>
-    <id>https://airghub.github.io/wsl/2025/03/04/hello-world/</id>
+    <link href="https://airghub.github.io/2025/03/04/hello-world/"/>
+    <id>https://airghub.github.io/2025/03/04/hello-world/</id>
     <published>2025-03-04T14:20:43.283Z</published>
     <updated>2025-03-04T14:20:43.284Z</updated>
     
